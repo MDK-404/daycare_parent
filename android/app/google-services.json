@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "56866990887",
+    "project_id": "daycaremanager-3e38b",
+    "storage_bucket": "daycaremanager-3e38b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56866990887:android:92896a92dc8544448c1702",
+        "android_client_info": {
+          "package_name": "com.elithub.apps.ft.daycare_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56866990887-rskh3fpsliv8l83cqusvdn44sp7j1v3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJfdrnHjG1FVbP-fPQstxCpaTGTxTfdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56866990887-rskh3fpsliv8l83cqusvdn44sp7j1v3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56866990887-ck86mrc11ajsrhhaafp1eil2n8ta871m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acesoftware365.daycareManager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56866990887:android:cea4521dccc166268c1702",
+        "android_client_info": {
+          "package_name": "com.example.daycare_parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56866990887-rskh3fpsliv8l83cqusvdn44sp7j1v3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJfdrnHjG1FVbP-fPQstxCpaTGTxTfdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56866990887-rskh3fpsliv8l83cqusvdn44sp7j1v3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56866990887-ck86mrc11ajsrhhaafp1eil2n8ta871m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acesoftware365.daycareManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
